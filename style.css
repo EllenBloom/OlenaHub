@@ -1,7 +1,7 @@
 .css-preview-wrapper {
   padding: 20px;
   border: solid;
-  background: url('http://cdn.backgroundhost.com/backgrounds/subtlepatterns/gplaypattern.png');
+  
 }
 
 p { 
@@ -12,13 +12,12 @@ p {
   font-weight: bold; 
   text-align: justify;
   
-  line-height: 1.8;
-  background-image: url("https://thumbs.dreamstime.com/b/%D0%B1%D0%B5-%D0%B0%D1%8F-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D1%83%D1%80%D0%B0-%D1%82%D0%BA%D0%B0%D0%BD%D0%B8-42521555.jpg");
-  background-repeat: repeat-x;
    padding-top: 50px;
     padding-right: 30px;
     padding-bottom: 50px;
     padding-left: 80px;
+  
 }
-ul li { color: red; }
-blockquote strong { color: green; }
+
+ol li { color: red; }
+footer p { color: green; }
